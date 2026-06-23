@@ -31,6 +31,10 @@ Detailed result files are available in `results/02_business_outputs/`, especiall
 
 The main business charts are in `figures/03_business/`.
 
+![Decision comparison: net profit](figures/03_business/decision_profit_comparison.png)
+
+No final PDF report is included in this public code package. The main review entry points are the reproducible pipeline, the checked-in result tables, and the generated figures.
+
 ## Design Principle
 
 The important design choice in this version is simple: the repository avoids hard-coding final competition outputs. Instead, it uses visible model-side assumptions, conservative rounded parameters, and a runnable pipeline so that the results can be regenerated from the checked-in seed data and configuration.
