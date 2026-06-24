@@ -33,7 +33,7 @@ The main business charts are in `figures/03_business/`.
 
 ![Decision comparison: net profit](figures/03_business/decision_profit_comparison.png)
 
-No final PDF report is included in this public code package. The main review entry points are the reproducible pipeline, the checked-in result tables, and the generated figures.
+The main review entry points are the reproducible pipeline, the checked-in result tables, and the generated figures.
 
 ## Design Principle
 
